@@ -1,0 +1,75 @@
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\Report With Parameters Using VB.Net.exe.config
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\Report With Parameters Using VB.Net.exe
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\Report With Parameters Using VB.Net.pdb
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\Report With Parameters Using VB.Net.xml
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\obj\Debug\Report With Parameters Using VB.Net.vbprojAssemblyReference.cache
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\obj\Debug\Report_With_Parameters_Using_VB.Net.Form1.resources
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\obj\Debug\Report_With_Parameters_Using_VB.Net.Resources.resources
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\obj\Debug\Report With Parameters Using VB.Net.vbproj.GenerateResource.cache
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\obj\Debug\Report With Parameters Using VB.Net.vbproj.CoreCompileInputs.cache
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\obj\Debug\Report With Parameters Using VB.Net.exe
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\obj\Debug\Report With Parameters Using VB.Net.xml
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\obj\Debug\Report With Parameters Using VB.Net.pdb
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\EnvDTE.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\stdole.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\Microsoft.MSXML.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\obj\Debug\Report_With_Parameters_Using_VB.Net.Form2.resources
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\obj\Debug\RdlCompile.cache
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\obj\Debug\RdlCompile.compiled
+C:\Users\EDUCATION\source\repos\Report With Parameters Using VB.Net\Report With Parameters Using VB.Net\obj\Debug\Report With Parameters Using VB.Net.vbproj.CopyComplete
